@@ -1,0 +1,43 @@
+body{
+    font-family: "Trebuchet MS";
+}
+div.tarjeta 
+{
+width: 250px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+text-align: center;
+}
+
+div.etiqueta 
+{
+background-color: #4CAF50;
+color: white;
+padding: 10px;
+font-size: 40px;
+}
+
+div.contenedor 
+{
+padding: 10px;
+background-color: #3086e7;
+color: white;
+}
+button {
+    background-color: #4CAF50; /* Verde */
+    border: none; /*Sin bordes*/
+    color: white; /* Color de letra*/
+    padding: 15px 32px; /*Distancia al borde interno*/
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block; /*respeta el padding en cualquier tamaño*/
+    font-size: 16px;
+  }
+  h1{
+      color: #4CAF50;
+  }
+
+  h1{
+      border: 2px;
+      border-style: double;
+      border-color: #4CAF50;
+  }

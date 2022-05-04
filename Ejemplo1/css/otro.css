@@ -1,0 +1,16 @@
+h1{
+    border: 2px;
+    border-style: double;
+    border-color: #123456;
+}
+#aqui{
+    color: white;
+    background-color: mediumseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.estilo{
+    border: 3px;
+    border-style: solid;
+    border-color: #f0ce09;
+    font-family: '';
+}
